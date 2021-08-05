@@ -1,0 +1,26 @@
+,Filename,Rouge Device Percentage,00:0c:29:9d:9e:9e,00:80:f4:09:51:3b,48:5b:39:64:40:79,00:0c:29:e6:14:0d
+0,"eth2dump-clean-0,5h_1.csv",0.0,0,0,0,0
+1,eth2dump-clean-1h_1.csv,0.0,0,0,0,0
+2,eth2dump-clean-6h_1.csv,0.0,0,0,0,0
+3,"eth2dump-mitm-change-15m-0,5h_1.csv",18.181818181818183,1,0,0,1
+4,eth2dump-mitm-change-15m-1h_1.csv,10.0,1,0,0,1
+5,eth2dump-mitm-change-15m-6h_1.csv,2.727272727272727,1,0,0,1
+6,"eth2dump-mitm-change-1m-0,5h_1.csv",10.0,0,0,0,1
+7,eth2dump-mitm-change-1m-1h_1.csv,5.263157894736842,0,0,0,1
+8,eth2dump-mitm-change-1m-6h_1.csv,0.9174311926605505,0,0,0,1
+9,eth2dump-mitm-change-30m-1h_1.csv,23.809523809523807,1,0,0,1
+10,eth2dump-mitm-change-30m-6h_1.csv,3.6036036036036037,1,0,0,1
+11,"eth2dump-mitm-change-5m-0,5h_1.csv",10.0,0,0,0,1
+12,eth2dump-mitm-change-5m-1h_1.csv,5.263157894736842,0,0,0,1
+13,eth2dump-mitm-change-5m-6h_1.csv,0.9174311926605505,0,0,0,1
+14,"eth2dump-tcpSYNFloodDDoS15m-0,5h_1.csv",45.45454545454545,1,1,1,1
+15,eth2dump-tcpSYNFloodDDoS15m-1h_1.csv,40.0,1,1,1,1
+16,eth2dump-tcpSYNFloodDDoS15m-6h_1.csv,4.545454545454546,1,1,1,1
+17,"eth2dump-tcpSYNFloodDDoS1m-0,5h_1.csv",10.0,0,0,0,1
+18,eth2dump-tcpSYNFloodDDoS1m-1h_1.csv,5.263157894736842,0,0,0,1
+19,eth2dump-tcpSYNFloodDDoS1m-6h_1.csv,0.9174311926605505,0,0,0,1
+20,eth2dump-tcpSYNFloodDDoS30m-1h_1.csv,42.857142857142854,1,1,1,1
+21,eth2dump-tcpSYNFloodDDoS30m-6h_1.csv,9.00900900900901,1,1,1,1
+22,"eth2dump-tcpSYNFloodDDoS5m-0,5h_1.csv",10.0,0,0,0,1
+23,eth2dump-tcpSYNFloodDDoS5m-1h_1.csv,5.263157894736842,0,0,0,1
+24,eth2dump-tcpSYNFloodDDoS5m-6h_1.csv,0.9174311926605505,0,0,0,1

@@ -1,0 +1,5 @@
+the training file is one_shot_anomaly_train.ipynb
+
+the testing file is results.py
+
+a smaller testing file it test.py
